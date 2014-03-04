@@ -114,6 +114,9 @@
 [submodule "janus/vim/langs/golang"]
 	path = janus/vim/langs/golang
 	url = https://github.com/jnwhiteh/vim-golang.git
+[submodule "janus/vim/langs/liquid"]
+	path = janus/vim/langs/liquid
+	url = https://github.com/tpope/vim-liquid.git
 
 # Tools
 [submodule "janus/vim/tools/unimpaired"]
@@ -215,3 +218,6 @@
 [submodule "janus/vim/tools/visualstar"]
 	path = janus/vim/tools/visualstar
 	url = https://github.com/thinca/vim-visualstar.git
+[submodule "janus/vim/tools/vim-trailing-whitespace"]
+	path = janus/vim/tools/vim-trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace.git

@@ -84,6 +84,7 @@ submodules:
     textile:
     clojure:
     golang:
+    liquid:
 
 
   # Tools
@@ -124,6 +125,7 @@ submodules:
     tlib:
     unimpaired:
     vim-addon-mw-utils:
+    vim-trailing-whitespace:
     vimwiki:
     zoomwin:
     vroom:
